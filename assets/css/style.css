@@ -1,0 +1,64 @@
+#logo {
+	height: 45px;
+    margin-top: 10px;
+}
+#nav ul li a,
+footer p a :hover {
+	color: #f61279;
+}
+#nav ul li a:hover {
+	font-weight: 500;
+}
+input[type="submit"].primary, 
+input[type="reset"].primary, 
+input[type="button"].primary, 
+.button.primary,
+header.major:after,
+.wrapper.style2 {
+    background: #f61279;	
+}
+#banner .content header {
+    width: 75%;
+	margin: auto;
+}
+#banner header h2,
+header.major h2,
+.box.alt span,
+.box.alt h3,
+.box.alt p {
+	color: #000;
+}
+.text-center {
+	text-align: center;
+}
+.text-left {
+	text-align: left;
+}
+.spotlight .content {
+	background: #f61279;
+	top: 0;
+}
+.spotlight.style1 .content {
+    border-color: #f61279;
+}
+.button.primary.accesscredit {
+	background: #fff;
+    color: #f61279!important;
+}
+header.major h2 {
+	margin-bottom: 0;
+}
+footer p {
+	margin-bottom: 0;
+}
+footer p a {
+	color: #fff;
+	border-bottom: none;
+	font-size: 14px;
+}
+.mt-90 {
+	margin-top: 90px;
+}
+.mt-15 {
+	margin-top: 15px;
+}
